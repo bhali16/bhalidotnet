@@ -1,2 +1,2 @@
-# waqarahmaddse
+# waqarahmaddse.github
 Waqar Ahmad Khan
