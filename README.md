@@ -1,9 +1,9 @@
 # waqarahmadse.github
-Waqar Ahmad Khan
-![](https://github-readme-stats.vercel.app/api?username=RobinMalfait&show_icons=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api?username=waqarahmadse&show_icons=true&count_private=true)
 
 <!--
-**RobinMalfait/RobinMalfait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**waqarahmadse/waqarahmadse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
