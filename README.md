@@ -1,1 +1,1 @@
-#Bhali.net
+# bhali.net | Waqar Ahmad Khan
